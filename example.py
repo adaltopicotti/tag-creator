@@ -7,5 +7,5 @@ def my_func():
     '''
         Documentação sobre a função
     '''
-    print('Ola')
+    print('hello')
     
